@@ -1,12 +1,12 @@
 # Working with Time Series in Stock Forecasting
 
-### Objective:
+### Objective
 
 Although this project involves predicting the price of a stock (BBAS3), its true purpose is to demonstrate the practice of dealing with Time Series. The intention is to highlight the process required to handle this type of data, rather than focusing on the results applied to the stock market. 
 
 It was an educational exercise and served as a practice to enhance my skills in time series data analysis.
 
-### About the Data: 
+### About the Data
 
 The data was obtained via the MetaTrader5 API and from the website [investing.com](https://br.investing.com/). 
 
